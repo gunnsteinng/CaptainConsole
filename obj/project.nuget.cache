@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IJnlDX1PrHqcScNMT+VAIG4x5W2t4lw4kXaYMRYXoWSKUl7XvXeE/osXYS0kaBSdiwqB/aBnTAHLCDE43IZZ7A==",
+  "success": true,
+  "projectFilePath": "/Users/gunnsteinngeirsson/DjangoProjects/CaptainConsole/CaptainConsole.csproj",
+  "expectedPackageFiles": [
+    "/Users/gunnsteinngeirsson/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/gunnsteinngeirsson/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
