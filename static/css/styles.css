@@ -130,3 +130,13 @@ header {
 .review-txt {
     font-size: 0.5rem;
 }
+
+
+.product-div {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.product-img {
+    margin: 20% 50px 20% 10px;
+}
