@@ -37,7 +37,12 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'captain_console.apps.CaptainConsoleConfig',
+    'homePage.apps.HomepageConfig',
+    'user.apps.UserConfig',
+    'manufacturer.apps.ManufacturerConfig',
+    'permission.apps.PermissionConfig',
+    'product.apps.ProductConfig',
+    'shopping.apps.ShoppingConfig',
 ]
 
 MIDDLEWARE = [
