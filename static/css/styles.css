@@ -21,6 +21,10 @@ header {
     padding: 50px;
 }
 
+.text-primary {
+    color: #efa90f;
+}
+
 /*------------------ FOOTER -------------------*/
 
 .footer-text {
