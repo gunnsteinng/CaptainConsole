@@ -23,7 +23,11 @@
     <option name="TEMPLATE_CONFIGURATION" value="Django" />
     <option name="TEMPLATE_FOLDERS">
       <list>
+<<<<<<< HEAD
         <option value="$MODULE_DIR$/venv/lib/python3.8/site-packages/django/forms/templates" />
+=======
+        <option value="$MODULE_DIR$/templates" />
+>>>>>>> 5d28d9b86c766626a2e33e1cbabe7022f20e9fd4
       </list>
     </option>
   </component>
